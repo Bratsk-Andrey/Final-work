@@ -1,0 +1,15 @@
+C:\Users\ybik2\Desktop\GEEKBRAINS\3_Знакомство с языками программирования\3_Итоговая проверочная работа\Control_work\bin\Debug\net7.0\Control_work.exe
+C:\Users\ybik2\Desktop\GEEKBRAINS\3_Знакомство с языками программирования\3_Итоговая проверочная работа\Control_work\bin\Debug\net7.0\Control_work.deps.json
+C:\Users\ybik2\Desktop\GEEKBRAINS\3_Знакомство с языками программирования\3_Итоговая проверочная работа\Control_work\bin\Debug\net7.0\Control_work.runtimeconfig.json
+C:\Users\ybik2\Desktop\GEEKBRAINS\3_Знакомство с языками программирования\3_Итоговая проверочная работа\Control_work\bin\Debug\net7.0\Control_work.dll
+C:\Users\ybik2\Desktop\GEEKBRAINS\3_Знакомство с языками программирования\3_Итоговая проверочная работа\Control_work\bin\Debug\net7.0\Control_work.pdb
+C:\Users\ybik2\Desktop\GEEKBRAINS\3_Знакомство с языками программирования\3_Итоговая проверочная работа\Control_work\obj\Debug\net7.0\Control_work.csproj.AssemblyReference.cache
+C:\Users\ybik2\Desktop\GEEKBRAINS\3_Знакомство с языками программирования\3_Итоговая проверочная работа\Control_work\obj\Debug\net7.0\Control_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ybik2\Desktop\GEEKBRAINS\3_Знакомство с языками программирования\3_Итоговая проверочная работа\Control_work\obj\Debug\net7.0\Control_work.AssemblyInfoInputs.cache
+C:\Users\ybik2\Desktop\GEEKBRAINS\3_Знакомство с языками программирования\3_Итоговая проверочная работа\Control_work\obj\Debug\net7.0\Control_work.AssemblyInfo.cs
+C:\Users\ybik2\Desktop\GEEKBRAINS\3_Знакомство с языками программирования\3_Итоговая проверочная работа\Control_work\obj\Debug\net7.0\Control_work.csproj.CoreCompileInputs.cache
+C:\Users\ybik2\Desktop\GEEKBRAINS\3_Знакомство с языками программирования\3_Итоговая проверочная работа\Control_work\obj\Debug\net7.0\Control_work.dll
+C:\Users\ybik2\Desktop\GEEKBRAINS\3_Знакомство с языками программирования\3_Итоговая проверочная работа\Control_work\obj\Debug\net7.0\refint\Control_work.dll
+C:\Users\ybik2\Desktop\GEEKBRAINS\3_Знакомство с языками программирования\3_Итоговая проверочная работа\Control_work\obj\Debug\net7.0\Control_work.pdb
+C:\Users\ybik2\Desktop\GEEKBRAINS\3_Знакомство с языками программирования\3_Итоговая проверочная работа\Control_work\obj\Debug\net7.0\Control_work.genruntimeconfig.cache
+C:\Users\ybik2\Desktop\GEEKBRAINS\3_Знакомство с языками программирования\3_Итоговая проверочная работа\Control_work\obj\Debug\net7.0\ref\Control_work.dll
